@@ -5,4 +5,5 @@ Steps used to build a new linux box.
 2. Install using btrfs file system for snapshot ability
 3. 
 4. Run
-  /* sudo katoolin */
+
+```sudo katoolin```
