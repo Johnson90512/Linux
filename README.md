@@ -6,5 +6,4 @@ Steps used to build a new linux box.
 3. Download and save custom katoolin script on pc.  
    ```wget https://shotr.io/yxJn1Ah9.py -O katoolin```
 4. Run
-
-```sudo katoolin```
+   ```sudo katoolin```
