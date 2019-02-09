@@ -7,3 +7,9 @@ Steps used to build a new linux box.
    ```wget https://shotr.io/yxJn1Ah9.py -O katoolin```
 4. Run
    ```sudo katoolin```
+
+
+## Tools to get on linux install
+ [SecLists](https://github.com/danielmiessler/SecLists)  
+ 
+ 
