@@ -1,4 +1,6 @@
+#!/usr/bin/python
 import os
+
 cmd = os.system("apt-get install acccheck")
 cmd = os.system("apt-get install ace-voip")
 cmd = os.system("apt-get install amap")
